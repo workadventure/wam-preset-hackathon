@@ -1414,7 +1414,7 @@
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
-                 "value":"editor"
+                 "value":"admin"
                 }, 
                 {
                  "name":"openConfigTrigger",
@@ -1531,7 +1531,7 @@
                 {
                  "name":"openConfigAdminTag",
                  "type":"string",
-                 "value":"editor"
+                 "value":"admin"
                 }, 
                 {
                  "name":"openConfigTrigger",
@@ -1600,7 +1600,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1638,7 +1638,7 @@
                         {
                          "name":"writableBy",
                          "type":"string",
-                         "value":"editor"
+                         "value":"admin"
                         }],
                  "rotation":0,
                  "visible":true,
